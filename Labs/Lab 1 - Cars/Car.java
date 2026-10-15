@@ -14,7 +14,7 @@ class Car {
     }
 }
 
-public class Car1 {
+public class Cars {
     public static void main(String[] args) {
         Car[] cars = {
             new Car("Mercedes", 2017, 84000),
